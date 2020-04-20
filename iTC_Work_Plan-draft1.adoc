@@ -1,4 +1,4 @@
-= <TOE type> international Technical Community Work Plan
+= <Hardcopy Device> international Technical Community Work Plan
 :showtitle:
 :imagesdir: images
 :table-caption!:
@@ -7,13 +7,13 @@
 :revdate: 2019-08-05
 :xrefstyle: full
 
-:iTC-longname: Coffee Maker
-:iTC-shortname: CM-iTC
-:iTC-email: cm-itc-mailing-list@gmail.com
-:iTC-website: https://coffeemaker.github.io/
-:iTC-GitHub: https://github.com/coffeemaker/repository/
+:iTC-longname: Hardcopy Device
+:iTC-shortname: HCD-iTC
+:iTC-email: hcd-itc-mailing-list@gmail.com
+:iTC-website: https://hcd-itc.github.io/
+:iTC-GitHub: https://github.com/hcd-itc/repository/
 
-== {iTC-longname} Work Plan
+== {Hardcopy Device iTC} Work Plan
 [cols=".^3,.^1,.^1,.^3,^.^1",options="header"]
 |===
 |Task 
