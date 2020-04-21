@@ -38,7 +38,7 @@
 |image:check-64.PNG[,,32]
 
 |{iTC-shortname} ToR approved by CCDB/CCMC
-|2019-04-17    
+|    
 |    
 |
 |image:check-64.PNG[,,32]
