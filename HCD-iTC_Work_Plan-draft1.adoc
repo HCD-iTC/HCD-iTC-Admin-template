@@ -26,84 +26,85 @@
 
 
 |{iTC-shortname} ToR created
-|
-|
+|2018-11-19
+|2019-04-02
 |
 |image:check-64.PNG[,,32]
 
 |{iTC-shortname} ToR approved by iTC
 |
+|2019-04-02
 |
-|
-|image:progress-64.PNG[,,32]
+|image:check-64.PNG[,,32]
 
 |{iTC-shortname} ToR approved by CCDB/CCMC
+|2019-04-17    
+|    
 |
-|
-|
-|image:important-64.PNG[,,32]
+|image:check-64.PNG[,,32]
 
 |{iTC-longname} iTC is formally approved as an international Technical Community
 |
+|2020-02-15
 |
-|
-|
+|image:check-64.PNG[,,32]
 
 |TOR update
-|
-|
-|
+|TBD
+|TBD
+|No updates planned at this time
 |
 
 5.+^.|*Work Plan*
 
 |Work Plan DRAFT created
-|
-|
-|
-|
+|2020-04-20
+|TBD
+|Initial draft to be reviewed at 4/27/2020 HCD iTC Meeting
+|image:progress-64.PNG[,,32]
 
 |Work Plan DRAFT Update
-|
-|
+|TBD
+|TBD
 |
 |
 
 5.+^.|*Security Problem Definition (SPD)*
 
 |Draft SPD created
-|
-|
-|
-|
+|2019-12-09
+|2020-01-06
+|Used SPD from HCD PP v1.1
+|image:check-64.PNG[,,32]
 
 |Draft SPD comments reviewed by {iTC-shortname}
-|
-|
-|
+|2020-05-04
+|2020-05-16
+|Review draft SPD 
 |
 
 |Draft SPD approved by {iTC-shortname}
 |
-|
-|
+|2020-05-22
+|Include 1 week for any updates
 |
 
 |Draft SPD published for public review
 |
-|
+|2020-05-29
 |
 |
 
 |Draft SPD comment review
-|
-|
+|2020-06-01
+|2020-06-26
 |
 |
 
 |Update SPD
 |
-|
+|2020-06-29
+|2020-07-06
 |
 |
 
