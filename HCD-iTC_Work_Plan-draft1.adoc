@@ -1,4 +1,4 @@
-= <Hardcopy Device> international Technical Community Work Plan
+= Hardcopy Device international Technical Community Work Plan
 :showtitle:
 :imagesdir: images
 :table-caption!:
