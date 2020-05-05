@@ -59,9 +59,9 @@
 
 |Work Plan DRAFT created
 |2020-04-20
-|TBD
-|Initial draft to be reviewed at 4/27/2020 HCD iTC Meeting
-|image:progress-64.PNG[,,32]
+|2020-04-24
+|Initial draft was be reviewed at 4/27/2020 HCD iTC Meeting
+|image:check-64.PNG[,,32]
 
 |Work Plan DRAFT Update
 |TBD
@@ -79,228 +79,228 @@
 
 |Draft SPD comments reviewed by {iTC-shortname}
 |2020-05-04
-|2020-05-16
+|2020-05-15
 |Review draft SPD 
 |
 
 |Draft SPD approved by {iTC-shortname}
-|
+|2020-05-18
 |2020-05-22
-|Include 1 week for any updates
+|
 |
 
 |Draft SPD published for public review
-|
+|2020-05-26
 |2020-05-29
 |
 |
 
 |Draft SPD comment review
 |2020-06-01
-|2020-06-26
+|2020-07-31
 |
 |
 
 |Update SPD
-|2020-06-29
-|2020-07-06
+|2020-08-03
+|2020-08-07
 |
 |
 
 |Manage update/creation of Position Statements
-|
-|
+|2020-08-10
+|2020-10-09
 |
 |
 
 |Publish disposition of comments and SPD
-|
-|
+|2020-08-10
+|2020-09-18
 |
 |
 
 5.+^.|*Security Functional Requirements (SFRs) & Evaluation Activities (EAs)*
 
 |Draft Security Requirements created
-|
-|
+|2019-12-09
+|2021-05-28
 |
 |
 
 |Draft Evaluation Activities created
-|
-|
+|2019-12-09
+|2021-05-28
 |
 |
 
 |Draft Security Requirements approved by {iTC-shortname}
-|
-|
+|2021-05-31
+|2021-06-11
 |
 |
 
 |Draft Evaluation Activities approved by {iTC-shortname}
-|
-|
+|2021-05-31
+|2021-06-11
 |
 |
 
 |Draft Security Requirements published for public review
-|
-|
+|2021-06-14
+|2021-06-18
 |
 |
 
 |Draft Evaluation Activities published for public review
-|
-|
+|2021-06-14
+|2021-06-18
 |
 |
 
 |Draft Security Requirements comment review
-|
-|
+|2021-06-21
+|2021-07-23
 |
 |
 
 |Draft Evaluation Activities comment review
-|
-|
+|2021-06-21
+|2021-07-23
 |
 |
 
 |Update Security Requirements
-|
-|
+|2021-07-26
+|2021-07-30
 |
 |
 
 |Update Evaluation Activities
-|
-|
+|2021-07-26
+|2021-07-30
 |
 |
 
 |Manage update/creation of Position Statements
-|
-|
+|2021-08-02
+|2021-12-31
 |
 |
 
 5.+^.|*Draft {iTC-longname} collaborative Protection Profile (cPP)*
 
 |Draft cPP by {iTC-shortname} (TOE, Assurance Reqs, rationale, etc.)
-|
-|
+|2021-08-02
+|2021-08-27
 |
 |
 
 |cPP published for public review
-|
-|
+|2021-08-30
+|2021-09-03
 |
 |
 
 |Update cPP and adjudicate comments
-|
-|
+|2021-09-06
+|2022-01-28
 |
 |
 
 |Publish cPP (ready for eval)
-|
-|
+|2022-01-31
+|2022-02-11
 |
 |
 
 5.+^.|*Supporting Documents (SDs) for {iTC-longname}*
 
 |Create draft “Rationale for Supporting Document for {iTC-longname}”
-|
-|
+|2021-08-02
+|2021-09-24
 |
 |
 
 |Get draft “Rationale for Supporting Document for {iTC-longname}”
-|
-|
+|2021-09-27
+|2021-10-08
 |
 |
 
 |Approved by {iTC-shortname}
-|
-|
+|2021-10-11
+|2021-10-15
 |
 |
 
 |Get draft “Rationale for Supporting Document for {iTC-longname}”
-|
-|
+|2021-10-18
+|2021-11-05
 |
 |
 
 |Approved by CCDB and CCMC
-|
-|
+|2021-11-08
+|2022-01-28
 |
 |
 
 |Vulnerability Analysis delivered to {iTC-shortname}
-|
-|
+|TBD
+|TBD
 |
 |
 
 |Equivalency Appendix delivered to {iTC-shortname}
-|
-|
+|N/A
+|N/A
 |
 |
 
 |Draft “Supporting Document for {iTC-longname}” 
-|
-|
+|2021-10-18
+|2021-10-29
 |
 |
 
 |Published for public review (CCDB)
-|
-|
+|2021-11-01
+|2021-11-05
 |
 |
 
 |{iTC-shortname} review and update of “Supporting Document for {iTC-longname}”
-|
-|
+|2021-09-27
+|2021-10-29
 |
 |
 
 5.+^.|*Evaluation/Certification of {iTC-longname} cPP/SDs*
 
 |Evaluation of cPP/SD
-|
-|
+|TBD
+|TBD
 |
 |
 
 |Certification of cPP/Ss
-|
-|
-|
+|TBD
+|TBD
+|Completed during first evaluation using HCD cPP/SD
 |
 
 |CCDB approval of cPP/SD
 |
-|
-|
+|2022-01-28
+|CCDB approval of cPP is not required
 |
 
 5.+^.|*Final {iTC-longname} cPP/SD*
 
 |Publish cPP and SD
-|
-|
-|
+|TBD
+|TBD
+|Goal is to publish HCD cPP /SD v1.0 1Q 2022
 |
 
 5.+^.|*Create Work Plan for cPP Interpretations & cPP v2.0*
@@ -308,7 +308,7 @@
 |Create Work Plan to update cPP/SD – fixes and new capabilities
 |
 |
-|
+|Will determine plans for an Integration Team sometime during 2021
 |
 
 |===
